@@ -81,7 +81,7 @@ const Dashboard = () => {
             type="text"
           />
           <MetricCard
-            icon={<Droplets className="text-blue-400" size={20} />}
+            icon={<Droplets className="text-primary" size={20} />}
             title="Water Intake"
             value={String(data.water)}
             unit="liters"
@@ -91,7 +91,7 @@ const Dashboard = () => {
             recommendation="Recommended: 2-3L daily"
           />
           <MetricCard
-            icon={<Moon className="text-indigo-400" size={20} />}
+            icon={<Moon className="text-accent" size={20} />}
             title="Sleep Hours"
             value={String(data.sleep)}
             unit="hours"
