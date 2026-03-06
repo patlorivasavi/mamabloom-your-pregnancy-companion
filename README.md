@@ -62,17 +62,20 @@ Mental Health Monitoring – Track stress and provide relaxation support.
 
 
 Conclusion 
+
 The Pregnancy Symptom Tracker provides a structured way for mothers to monitor their health and baby’s development.
 It combines symptom tracking, health monitoring, alerts, and guidance in one platform.
 The system helps in early detection of potential risks and encourages healthier pregnancy habits.
 Overall, it supports safer pregnancies and better maternal well-being through smart digital monitoring.
 
 
-Outcome 
+Outcome
+
 The implementation of MamaBloom will significantly improve maternal and newborn health monitoring by providing a smart and accessible digital support system for pregnant women.
 The platform enables mothers to continuously track important health indicators such as blood pressure, sleep patterns, hydration levels, and baby movements. By analyzing this information, the system can identify potential health risks at an early stage and generate timely alerts, helping mothers seek medical attention before complications become severe.
 The baby development tracker ensures that mothers stay informed about their baby’s growth and milestones throughout the pregnancy period. Educational guidance on nutrition, exercise, and pregnancy care empowers mothers with the knowledge required to maintain a healthy lifestyle during pregnancy.
 Additionally, features such as doctor visit reminders, hospital finder, and emergency contacts strengthen the connection between mothers and healthcare services. The pregnancy health score and smart symptom checker further assist in assessing the overall health condition and guiding mothers on whether symptoms require monitoring or medical consultation.
+
 Overall, MamaBloom is expected to:
 Improve early detection of pregnancy-related risks
 Increase awareness about maternal health and baby development
@@ -81,6 +84,8 @@ Enhance communication between mothers and healthcare providers
 Support safer pregnancies and healthier newborn outcomes
 
 Thus, MamaBloom acts as an integrated digital companion for pregnancy care, combining health monitoring, intelligent analysis, and educational support in a single platform.
+
+
 Learning Outcomes
 
 Understanding Maternal Health Monitoring
